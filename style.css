@@ -91,7 +91,7 @@
             padding: var(--space-4) 5vw;
             max-width: var(--max-width);
             margin: 0 auto;
-            min-height: 100vh;
+            min-height: 46vh;
             scroll-snap-align: start;
 
             opacity: 0;
@@ -527,6 +527,7 @@
             }
 
         }
+
 
 
 
